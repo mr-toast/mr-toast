@@ -18,7 +18,7 @@ Engineer long term technical solutions for OJG’s existing resorts and future d
 - Maintain hand-off records and processes for all services
 
 **Marketing and SEO Support**\
-Carry out SEO refactors, presentation updates and feature requests based on SEO and marketing team requirements.
+- Carry out SEO refactors, presentation updates and feature requests based on SEO and marketing team requirements.
 
 ---
 📬 💬 Contact me here for professional frontend development.
