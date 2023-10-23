@@ -3,7 +3,7 @@
 I'm currently the developer for **Our Jungle Group (OJG)** resorts.
 
 **Role**\
-Engineer long term technical solutions for OJG’s existing resorts and future developments.
+Engineer long term technical solutions for OJG’s existing resorts and future development.
 
 **Key Responsibilities**
 1. Frontend development
