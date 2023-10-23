@@ -17,7 +17,7 @@ Engineer long term technical solutions for OJG’s existing resorts and future d
 - Maintain codebase backups and redundancy systems
 - Maintain hand-off records and processes for all services
 
-**Marketing and SEO Support**\
+**Marketing and SEO Support**
 - Carry out SEO refactors, presentation updates and feature requests based on SEO and marketing team requirements.
 
 ---
