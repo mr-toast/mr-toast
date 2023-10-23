@@ -21,5 +21,5 @@ Engineer long term technical solutions for OJG’s existing resorts and future d
 - Carry out SEO refactors, presentation updates and feature requests based on SEO and marketing team requirements.
 
 ---
-📬 💬 Contact me here for professional frontend development.
+#### 📬 💬 Contact me here for professional frontend development.
 ---
