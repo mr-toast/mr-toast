@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👨🏼‍💻💻 Nextjs and React Native development
 
-<!--
-**mr-toast/mr-toast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently the developer for **Our Jungle Group (OJG)** resorts.
 
-Here are some ideas to get you started:
+**Role**\
+Engineer long term technical solutions for OJG’s existing resorts and future developments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Key Responsibilities**
+1. Frontend development
+2. Property managment sytem API integrations
+3. Deploy and maintian online infrastructure
+4. Design and branding revision
+
+**Secondary Tasks**
+- Project SAAS budgeting and estimations
+- Maintain technical documentation
+- Maintain codebase backups and redundancy systems
+- Maintain hand-off records and processes for all services
+
+**Marketing and SEO Support**\
+Carry out SEO refactors, presentation updates and feature requests based on SEO and marketing team requirements.
+
+---
+📬 💬 Contact me here for professional frontend development.
+---
