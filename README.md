@@ -23,3 +23,5 @@ Engineer long term technical solutions for OJG’s existing resorts and future d
 ---
 #### 📬 💬 Contact me here for professional frontend development.
 ---
+
+vim!
